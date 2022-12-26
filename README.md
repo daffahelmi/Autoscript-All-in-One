@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
 <hr>
-🚀 Autoscript All in One By Vinstechmy (Coming Soon!)🚀
+🚀 Autoscript All in One By Vinstechmy 🚀
 <h2><hr>
   
 <h2 align="center"> ♦️Supported Linux Distribution♦️</h2>
@@ -50,7 +50,7 @@
 ♦️ Installation Link<br>
 
   ```html
-Coming Soon
+PM ME AT t.me/Vinstechmy FOR REGISTRATION IP & INSTALLATION LINK
   ```
 
 </b>
