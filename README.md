@@ -21,6 +21,8 @@
 ✅ XRAY VMESS gRPC <br>
 ✅ XRAY VLESS gRPC <br>
 ✅ XRAY TROJAN gRPC <br>
+✅ XRAY SHADOWSOCKS WS <br>
+✅ XRAY SHADOWSOCKS gRPC <br>
 <br>
 [ OTHER SERVICES ] <br>
 <br>
